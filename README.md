@@ -17,7 +17,6 @@ heat_sink_thermal_analysis/
 ├── heat_sink_calculator.py       # Python script for analysis
 ├── cad_files/                    # SolidWorks .SLDPRT and .SLDASM files
 ├── images/                       # PNGs: renders, 4-view layout
-├── results/                      # (Optional) output logs or plots
 └── README.md                     # Project description (this file)
 ```
 
