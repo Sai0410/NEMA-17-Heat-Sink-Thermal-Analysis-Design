@@ -23,11 +23,11 @@ heat_sink_thermal_analysis/
 
 ---
 
-## 📌 Next Steps
+## Next Steps
 - [ ] Add FEA-based temperature distribution validation
 - [ ] Integrate CFD simulation for detailed airflow analysis
 
-## 📬 Contact
+## Contact
 Made by [Sai Sawant](https://www.linkedin.com/in/saisawant/) — Mechanical Engineering @ UNC Charlotte
 
 Feel free to fork, use, or build upon this project!
